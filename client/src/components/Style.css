@@ -1,0 +1,15 @@
+#month{
+    margin-bottom: 10%;
+    color: #0b1626;
+    font-size: calc(10px + 2vmin);
+    text-align:center;
+    margin-top: 60px;
+    
+
+}
+.nav{
+    color: whitesmoke;
+    background-color:#642f2f;
+    height: 40px ; 
+    align-items: center;
+}
